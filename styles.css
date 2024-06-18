@@ -39,3 +39,12 @@ ul li {
 p {
     line-height: 1.6;
 }
+
+.job, .education {
+    margin-bottom: 20px;
+}
+
+.date {
+    float: right;
+    color: #666;
+}
