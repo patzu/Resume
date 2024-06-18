@@ -28,7 +28,7 @@ header p {
     margin: 5px 0;
 }
 
-header img {
+header img.profile-pic {
     width: 150px;
     height: 150px;
     border-radius: 50%;
